@@ -22,9 +22,14 @@ for indice, fruta in enumerate(frutas):
 
 "4 - For com dicionário"
 
+pessoa = {"nome": "João", "idade":25}
 
+for chave, valor in pessoa.items():
+    print(chave, ":", valor)
 
 "5 - Compreensão de listas"
+"Forma compacta de criar listas usando for"
 
-
+quadrados = [x**2 for x in range ()]
+print(quadrados)
 
