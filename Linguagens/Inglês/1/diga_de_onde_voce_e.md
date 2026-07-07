@@ -1,4 +1,4 @@
-Palavras isoladas e seu significado em Portugues e Inglês!
+Palavras isoladas e seu significado em Portugues e Alemão!
 
 1:  >>>  >>> 
 2:  >>>  >>> 
@@ -13,7 +13,7 @@ Palavras isoladas e seu significado em Portugues e Inglês!
 11:  >>>  >>> 
 12:  >>>  >>> 
 
-Frases compostas e seu significado em Ingles e Portugues
+Frases compostas e seu significado em Alemão e Portugues
 
 1:  >>>  >>> 
 2:  >>>  >>> 

@@ -31,22 +31,21 @@ Ha uma quebra de linha automaticamente;
 São usados na estruturação do Layout;
 
 exemplos comuns:
-<div>         >>> 
-<p>           >>> 
-<h1> a <h6>   >>> 
-<section>     >>> 
-<article>     >>> 
-<header>      >>> 
-<footer>      >>> 
-<nav>         >>> 
+<div>         >>> Contêiner genérico para agrupar conteúdo
+<p>           >>> Paragráfo de texto
+<h1> a <h6>   >>> Títulos e sub-títulos
+<section>     >>> Seção temática
+<article>     >>> Artigo ou conteúdo independente
+<header>      >>> Cabeçalho da página ou seção
+<footer>      >>> Rodapé da página ou seção
+<nav>         >>> Área de navegação
 
-
-
-
+<div>
+    <h1>Título principal</h1>
+    <p> Este é um parágrafo dentro de um bloco</p>
+</div>
 
 
 Elemento in-line:
 
 Elemento vazio:
-
-
