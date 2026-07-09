@@ -1,17 +1,23 @@
 Palavras isoladas e seu significado em Portugues e Inglês!
 
-1:  Mama >>>  >>> 
-2:  Lisa >>>  >>> 
-3:  Dast >>>  >>> 
-4:  Ist >>>  >>> 
-5:  Meine >>>  >>> 
-6:  Schwester >>>  >>> 
-7:  Papa >>>  >>> 
-8:  Mein >>>  >>> 
-9:  Bruder >>>  >>> 
-10: Max  >>>  >>> 
-11:  >>>  >>> 
-12:  >>>  >>> 
+1:  Mama >>>  >>> Mamãe/Mãe
+2:  Lisa >>>  >>> Lisa(nome)
+3:  Dast >>>  >>> Este
+4:  Ist >>>  >>> É
+5:  Meine >>>  >>> minha
+6:  Schwester >>>  >>> Irmã
+7:  Papa >>>  >>> Papai/Pai
+8:  Mein >>>  >>> Meu
+9:  Bruder >>>  >>> Irmão
+10: Max  >>>  >>> Max(nome)
+11: Sohn >>>  >>> Filho
+12: Tochter >>>  >>> Filha
+13: Nett >>>  >>> Simpático
+14: Lustig >>>  >>> Divertido
+15:  >>>  >>>
+16:  >>>  >>>
+17:  >>>  >>>
+18:  >>>  >>>
 
 Frases compostas e seu significado em Ingles e Portugues
 
