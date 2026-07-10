@@ -45,7 +45,43 @@ exemplos comuns:
     <p> Este é um parágrafo dentro de um bloco</p>
 </div>
 
-
 Elemento in-line:
 
+Características:
+1 - Ocupam apenas o espaço necessário
+2 - Não iniciam nova linha: Ficam dentro do fluxo do texto
+3 - usados pra destaque ou inserção de links, imagens e estilos.
+
+Ex:
+<span> Conteiner genérico apra aplicar estilos em parte do texto
+<a> Cria links
+<img> Insere imagens dentro do texto
+<strong> Destaca em negrito
+<em> Destaca em itálico
+<label> Usado em formulários
+
+<p>Este é um <strong>texto importante <strong> dentro de um parágrafo</p>
+<a href="https:// exemplo.com"> Visite meu site </a>
+<img src="foto.png" alt="minha foto">
+
 Elemento vazio:
+
+Características: 
+
+Não tem conteúdo >>> não existe texto ou outros elementos dentro deles.
+Não precisam de tags de fechamento >>> São esctitos apenas com a tag de abertura 
+Dependem de atributos >>> Definem comportamentos ou informações adicionais
+
+Exemplos de elementos vazios!
+
+1 - <img src="foto.png" alt="minha foto"> - Insere uma imagem
+
+2 - Quebra de linha  (texto antes) <br> Quebra de linha (texto depois)
+
+3 - <hr> Linha horizontal de separação
+
+4 - <input type"text" placeholder="Digite seu nome"> Campo de formulário
+
+5 - <meta charset="UTG-8"> metadados no <head>
+
+6 - <link rel="stylesheet" href="style.css"> Conecta diretamente arquivos externos (CSS, JS, ícones...)
