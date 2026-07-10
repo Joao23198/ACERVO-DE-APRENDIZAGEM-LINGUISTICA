@@ -21,13 +21,13 @@ Palavras isoladas e seu significado em Portugues e Inglês!
 
 Frases compostas e seu significado em Ingles e Portugues
 
-1:  >>>  >>> 
-2:  >>>  >>> 
-3:  >>>  >>> 
-4:  >>>  >>> 
-5:  >>>  >>> 
-6:  >>>  >>> 
-7:  >>> >>> 
-8:  >>> >>> 
+1: Das ist mein  () >>>  >>> 
+2: Das ist meine () >>>  >>> 
+3: Meine () >>>  >>> 
+4: Mein  () >>>  >>> 
+5: Mein/Meine () ist nett >>>  >>> 
+6: Mein/Meine () ist lustig >>>  >>> 
+7: Ich bin nett >>> >>> 
+8: ()ist nett >>> >>> 
 9:  >>>  >>> 
 10: >>>  >>>
