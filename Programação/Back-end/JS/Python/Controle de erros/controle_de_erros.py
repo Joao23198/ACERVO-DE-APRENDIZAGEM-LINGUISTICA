@@ -43,7 +43,7 @@ class ErroPersonalizado(Exception):
     pass
 
 def verificar_valor(x):
-    if c < 0:
+    if x < 0:
         raise ErroPersonalizado("Valor nao pode ser negativo")
     return x
 try:
