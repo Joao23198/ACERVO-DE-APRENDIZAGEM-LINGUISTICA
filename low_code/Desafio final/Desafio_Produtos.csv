@@ -1,0 +1,11 @@
+Produto_ID,Produto,Categoria,Produto_Ativo
+5001,Filtro de Óleo,Manutenção,Sim
+5002,Bomba de Combustível,Motor,Sim
+5003,Pastilha de Freio,Freios,Sim
+5004,Vela de Ignição,Ignição,Sim
+5005,Correia Dentada,Transmissão,Sim
+5006,Amortecedor,Suspensão,Sim
+5007,Disco de Freio,Freios,Sim
+5008,Filtro de Ar,Manutenção,Sim
+5009,Bateria,Elétrica,Sim
+5010,Sensor ABS,Eletrônica,Sim
