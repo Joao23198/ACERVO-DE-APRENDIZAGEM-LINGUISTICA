@@ -1,17 +1,17 @@
 Palavras isoladas e seu significado em Portugues e Alemão!
 
-1:  Goodbye >>>  >>> 
-2:  Hello >>>  >>> 
-3:  Welcome >>>  >>> 
-4:  Thank you >>>  >>> 
-5:  Coffee >>>  >>> 
-6:  with >>>  >>> 
-7:  Sugar >>>  >>> 
-8:  Milk >>>  >>> 
-9:  Tea >>>  >>> 
-10: or >>>  >>> 
-11: and >>>  >>> 
-12: please >>>  >>> 
+1:  Goodbye >>>  >>>Tchau 
+2:  Hello >>>  >>> Oi
+3:  Welcome >>>  >>> Bem-vindo
+4:  Thank you >>>  >>> Obrigado
+5:  Coffee >>>  >>> Café
+6:  with >>>  >>> Com
+7:  Sugar >>>  >>> açúcar
+8:  Milk >>>  >>> leite
+9:  Tea >>>  >>> chá
+10: or >>>  >>> ou
+11: and >>>  >>> e
+12: please >>>  >>> por favor
 12: please >>>  >>> 
 12: please >>>  >>> 
 12: please >>>  >>> 
@@ -20,9 +20,9 @@ Palavras isoladas e seu significado em Portugues e Alemão!
 
 Frases compostas e seu significado em Alemão e Portugues
 
-1: Coffee with sugar >>>  >>> 
-2: Bye bye, thank you >>>  >>> 
-3: Coffee with milk >>>  >>> 
+1: Coffee with sugar >>>  >>> Café com açúcar 
+2: Bye bye, thank you >>>  >>> Tchau, obrigado
+3: Coffee with milk >>>  >>> Café com leite
 4:  >>>  >>> 
 5:  >>>  >>> 
 6:  >>>  >>> 
