@@ -24,7 +24,7 @@ Frases compostas e seu significado em Ingles e Portugues
 7:  My dad and my mom >>> >>> 
 8:  Lisa is from Paris >>> >>> 
 9:  My dad is from Japan >>>  >>> 
-10:  >>>  >>>
+10: My mom and my dad >>>  >>>
 11: Hi, Anna >>>  >>> 
 12: My name is Anna >>>  >>> 
 13: Hi, my name is David >>>  >>> 
