@@ -85,18 +85,40 @@ EXTRA:
 
 Palavras isoladas e seu significado em Portugues e Inglês!
 
-1:  >>>  >>> 
-2:  >>>  >>> 
-3:  >>>  >>> 
-4:  >>>  >>> 
-5:  >>>  >>> 
-6:  >>>  >>> 
-7:  >>>  >>> 
-8:  >>>  >>> 
-9:  >>>  >>> 
-10:  >>>  >>> 
-11:  >>>  >>> 
-12:  >>>  >>> 
+1: Der >>>  >>> O 
+2: Pass >>>  >>> Passaport/e
+3: Vikran >>>  >>> 
+4: Seine >>>  >>> Sua
+5: Frau >>>  >>> Esposa
+6: Priya >>>  >>> 
+7: Sind >>>  >>> Estão
+8: Im >>>  >>> no
+9: Flughafen>>>  >>> aeroporto
+10: Oh  >>>  >>> Oh
+11: nein >>>  >>> não
+12: Wo >>>  >>> onde
+13: Nicht >>>  >>> Não
+14: Hier >>>  >>> Aqui
+15: Er >>>  >>> Ele
+16: Tasche >>>  >>> Bolsa
+17: Jacke >>>  >>> Jaqueta
+18: Aber >>>  >>> mas
+19: Taxi >>>  >>> Taxi
+20: Lauft >>>  >>>
+21: Zum >>>  >>>
+22: Taxistand >>>  >>>
+24: Zu >>>  >>>
+25: mehr >>>  >>>
+26: Jetzt >>>  >>>
+27: habe >>>  >>>
+28: Grobes >>>  >>>
+29: Problem >>>  >>>
+30: Dein >>>  >>>
+31: Deiner >>>  >>>
+32: Hand >>>  >>>
+33: Was >>>  >>>
+34: Schatz >>>  >>>
+35:  >>>  >>>
 
 Frases compostas e seu significado em Ingles e Portugues
 
