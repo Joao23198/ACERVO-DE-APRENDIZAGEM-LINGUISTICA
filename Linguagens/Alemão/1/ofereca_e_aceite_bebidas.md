@@ -25,3 +25,35 @@ Frases compostas e seu significado em Ingles e Portugues
 8: Hallo, kekse mit tee, bitte >>> Hello, cookies with tea, please >>> Oi, biscoitos e chá, por favor.
 9: Tee mit zucker, bitte >>> Tea with sugar, please >>> Chá com açúcar, por favor 
 10: Kekse und tee, bitte >>> Cookies with tea, please >>> Biscoitos com chá, por favor
+
+
+
+EXTRA:
+
+Palavras isoladas e seu significado em Portugues e Inglês!
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>>  >>> 
+8:  >>>  >>> 
+9:  >>>  >>> 
+10:  >>>  >>> 
+11:  >>>  >>> 
+12:  >>>  >>> 
+
+Frases compostas e seu significado em Ingles e Portugues
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>> >>> 
+8:  >>> >>> 
+9:  >>>  >>> 
+10: >>>  >>>

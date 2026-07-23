@@ -30,3 +30,33 @@ Frases compostas e seu significado em Ingles e Portugues
 11: Meine mama/scwester/torchter ist nett         >>> My mom/sister/daughter is nice >>> Minha mãe/irmã/filha é amigável
 12: Meine mama/scwester/torchter ist lustig       >>> My mom/sister/daughter is funny >>> Minha mãe/irmã/filha é divertida
 13: Mama/scwester/torhter ist nett                >>> Mom/sister/daughter is nice >>> Mãe/irmã/filha é amigável
+
+EXTRA:
+
+Palavras isoladas e seu significado em Portugues e Inglês!
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>>  >>> 
+8:  >>>  >>> 
+9:  >>>  >>> 
+10:  >>>  >>> 
+11:  >>>  >>> 
+12:  >>>  >>> 
+
+Frases compostas e seu significado em Ingles e Portugues
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>> >>> 
+8:  >>> >>> 
+9:  >>>  >>> 
+10: >>>  >>>

@@ -24,3 +24,32 @@ Frases compostas e seu significado em Alemão e Portugues
 6: Goodbye, thank you >>>  >>> Adeus, obrigado
 7: Water or coffe? >>> >>> água ou café?
 
+EXTRA:
+
+Palavras isoladas e seu significado em Portugues e Inglês!
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>>  >>> 
+8:  >>>  >>> 
+9:  >>>  >>> 
+10:  >>>  >>> 
+11:  >>>  >>> 
+12:  >>>  >>> 
+
+Frases compostas e seu significado em Ingles e Portugues
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>> >>> 
+8:  >>> >>> 
+9:  >>>  >>> 
+10: >>>  >>>

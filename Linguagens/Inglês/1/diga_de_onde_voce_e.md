@@ -10,3 +10,33 @@ Frases compostas e seu significado em Ingles e Portugues
 
 1: I am from mexico, and you? >>>  >>> Eu sou do méxico, e você?
 2: I am from mexico too! >>>  >>> Eu sou do méxico também!
+
+EXTRA:
+
+Palavras isoladas e seu significado em Portugues e Inglês!
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>>  >>> 
+8:  >>>  >>> 
+9:  >>>  >>> 
+10:  >>>  >>> 
+11:  >>>  >>> 
+12:  >>>  >>> 
+
+Frases compostas e seu significado em Ingles e Portugues
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>> >>> 
+8:  >>> >>> 
+9:  >>>  >>> 
+10: >>>  >>>

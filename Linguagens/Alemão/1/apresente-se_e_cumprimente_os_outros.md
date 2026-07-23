@@ -16,3 +16,33 @@ Frases compostas e seu significado em Ingles e Portugues
 5: Hallo, ich bin () >>> Hello, I am () >>> Oi, eu sou ()
 6: Ich Komme aus (). Und du? >>> I'm come from (). And you? >>> Eu sou de (). E voce?
 7: Hallo Anna, freut Mich >>> Hello Anna, i'm pleased >>> Oi Anna, prazer.
+
+EXTRA:
+
+Palavras isoladas e seu significado em Portugues e Inglês!
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>>  >>> 
+8:  >>>  >>> 
+9:  >>>  >>> 
+10:  >>>  >>> 
+11:  >>>  >>> 
+12:  >>>  >>> 
+
+Frases compostas e seu significado em Ingles e Portugues
+
+1:  >>>  >>> 
+2:  >>>  >>> 
+3:  >>>  >>> 
+4:  >>>  >>> 
+5:  >>>  >>> 
+6:  >>>  >>> 
+7:  >>> >>> 
+8:  >>> >>> 
+9:  >>>  >>> 
+10: >>>  >>>
